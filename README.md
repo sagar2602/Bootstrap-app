@@ -1,2 +1,2 @@
 # Bootstrap-app
-An App based on bootstrap.It includes use of navbar,Jumbotron,forms,various card titles to build the frontend of the application. 
+An App based on bootstrap.It includes use of navbar,Jumbotron,forms,Deck type Cards to build the frontend of the application. 
